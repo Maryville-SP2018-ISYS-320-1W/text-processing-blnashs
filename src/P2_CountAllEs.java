@@ -7,6 +7,9 @@ import java.util.Scanner;
 */
 
 /* 2. Your pseudocode algorithm in here
+ * Count each word if it contains the letter e
+ * Add the total number of e's and sum
+ * Display the sum of the letter e
  
  
  
