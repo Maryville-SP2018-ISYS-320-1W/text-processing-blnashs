@@ -25,6 +25,8 @@ public class P5_AvgToTwoPlaces {
 		}
 		
 		System.out.println("The average value is: " + sum / numbers);
+		System.out.println(Math.round(a*100)/100);
+		
 	}
 
 }
